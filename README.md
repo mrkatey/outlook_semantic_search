@@ -1,6 +1,7 @@
 # outlook_semantic_search
 
-[!images/search.png](Search)
+![Search Image](images/search.png)
+
 
 Find your messages, using Semantic search not just keywords! :)
 
